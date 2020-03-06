@@ -1,1 +1,3 @@
 # MyMarkdownTest
+
+![img](test.jpg)
