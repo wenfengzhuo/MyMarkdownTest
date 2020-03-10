@@ -8,13 +8,13 @@ Test Line #1
 
 Test Line #2
 
-![Test Folder](assets/test1.png)
+![Test Folder](https://raw.githubusercontent.com/wenfengzhuo/MyMarkdownTest/master/assets/test1.png)
 
 
 Test Line #3
-
+123sdfasf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NDU1MzE4LDE2NDk5NTczMDAsLTE1ND
-E3MjEzMDAsLTEwNTkyMzQzMDYsNTM4Mzc0MDIyLDE4NDkwNjY1
-OTBdfQ==
+eyJoaXN0b3J5IjpbMjM5OTQ1NDIxLDc4NDQ1NTMxOCwxNjQ5OT
+U3MzAwLC0xNTQxNzIxMzAwLC0xMDU5MjM0MzA2LDUzODM3NDAy
+MiwxODQ5MDY2NTkwXX0=
 -->
